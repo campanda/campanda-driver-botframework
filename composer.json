@@ -1,5 +1,5 @@
 {
-    "name": "botman/driver-botframework",
+    "name": "campanda/botman-driver-botframework",
     "license": "MIT",
     "description": "Microsoft Bot Framework driver for BotMan",
     "keywords": [
@@ -13,11 +13,14 @@
         {
             "name": "Marcel Pociot",
             "email": "m.pociot@gmail.com"
+        },
+        {
+            "name": "Marcel Pociot",
+            "email": "m.pociot@gmail.com"
         }
     ],
     "require": {
-        "php": ">=7.0",
-        "botman/botman": "~2.0"
+        "php": ">=7.0"
     },
     "require-dev": {
         "botman/studio-addons": "~1.0",
